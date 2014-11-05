@@ -7,10 +7,10 @@
 
     <!-- versionCode is optional and Android only -->
 
-    <name>     </name>
+    <name> Rosenda Garcia Rojas    </name>
 
     <description>
-        
+        Examen 2do parcial
     </description>
 
     <preference name="phonegap-version" value="3.1.0" />
